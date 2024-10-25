@@ -1,0 +1,6 @@
+cut_images/
+dataset/
+dataset_hasil_cropping/
+kmeans_images/
+lab_images/
+preprocessed_images/
